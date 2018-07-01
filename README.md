@@ -1,9 +1,3 @@
----
-title: "README.md"
-author: "John Patrick La-anan"
-date: "July 1, 2018"
----
-
 # Coursera Data Science Track - Getting and Cleaning Data Project
 
 ### Overview
